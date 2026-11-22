@@ -19,4 +19,5 @@ A lightweight, AMOLED Pure Black battery telemetry, health, and charge cycle mon
 ### Build From Source
 1. Create an **Empty Activity (Jetpack Compose)** project in Android Studio (`minSdk = 34`).
 2. Add `dev.rikka.shizuku:api:13.1.5` and `dev.rikka.shizuku:provider:13.1.5` to `build.gradle.kts`.
-3. Copy `AndroidManifest.xml` and `MainActivity.kt` from this repository and build.
+3. Copy `AndroidManifest.xml` and `MainActivity.kt` from this repository and build. <img width="576" height="1280" alt="Edge 30 Fusion 2026-11-22_19-40-07" src="https://github.com/user-attachments/assets/9eb497bc-07c3-4ede-8226-10fffff198d0" />
+
