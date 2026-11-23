@@ -1,3 +1,5 @@
+<img width="1080" height="2400" alt="photo_2026-11-23_12-25-02" src="https://github.com/user-attachments/assets/419a583c-85d1-468b-9154-d430feeeea0d" />
+<img width="579" height="1280" alt="photo_2026-11-23_12-39-54" src="https://github.com/user-attachments/assets/2adb678d-3978-4654-a747-91674d78349d" />
 # VoltPulse
 Lightweight AMOLED battery health, charge cycle count, and live power monitor for Motorola phones (Android 14+, no root required via Shizuku). Built by ro.us.adrian.
 # VOLT // PULSE (`ro.us.adrian`)
